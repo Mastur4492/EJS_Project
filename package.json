@@ -1,0 +1,19 @@
+{
+  "name": "ejs-project",
+  "version": "1.0.0",
+  "description": "EJS Project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
